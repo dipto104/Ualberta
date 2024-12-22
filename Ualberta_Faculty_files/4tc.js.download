@@ -1,0 +1,8 @@
+// Qualaroo for ualberta.ca
+// (C) 2024 Qualaroo. All rights reserved.
+// qualaroo.com
+
+//$ site: 18252, generated: 2024-10-15 21:47:59 UTC
+//$ client: 2.0.55
+
+!function(){var e=document,t=e.getElementsByTagName("script")[0],r=e.createElement("script");r.type="text/javascript",r.async=!0,r.src="https://cl.qualaroo.com/ki.js/22238/4tcqoo.js",t.parentNode.insertBefore(r,t)}();
